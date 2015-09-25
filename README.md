@@ -58,6 +58,14 @@ Add your Elastic Node Uri to your appsettings section in web.config:
 <add key="ElasticNode" value="https://7l3nh4abc:d3xildecas@elasticcluster-24045628.us-west-2.bonsai.io" />
 
 ```
+<b>Logs Example</b>
+
+This is the log format that this interceptor will output:
+```
+{"@timestamp":"2015-09-25T15:48:00.8615269+01:00","level":"Error","messageTemplate":"There was an error method .ctor from Tester.Foo type","message":"There was an error method .ctor from Tester.Foo type","exceptions":[{"Depth":0,"ClassName":"System.Reflection.TargetInvocationException","Message":"Ex...
+
+```
+
 
 
 # Nuget Package
