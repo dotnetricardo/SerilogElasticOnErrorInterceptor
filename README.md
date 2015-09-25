@@ -51,55 +51,16 @@ If you want to use this Interceptor on just some methods, inside the copconfig.j
 
 }
 ```
-<b>Important: Don't forget these next steps for the MiniProfiler widget to show up!</b>
+<b>Configuration</b>
 
-1- Add MiniProfiler handler to web.config:
+Add your Elastic Node Uri to your appsettings section in web.config:
 ```
-<system.webServer>
-...
-<handlers>
-    <add name="MiniProfiler" path="mini-profiler-resources/*" verb="*" type="System.Web.Routing.UrlRoutingModule" resourceType="Unspecified" preCondition="integratedMode" />
-</handlers>
-</system.webServer>
-```
+<add key="ElasticNode" value="https://7l3nh4abc:d3xildecas@elasticcluster-24045628.us-west-2.bonsai.io" />
 
-2- Add the start and stop code for the profiler on Global.asax:
-```
- protected void Application_BeginRequest()
- {
-    if (Request.IsLocal)
-    {
-        StackExchange.Profiling.MiniProfiler.Start();
-    }
-}
- 
-protected void Application_EndRequest()
-{
-    if (Request.IsLocal)
-    {
-        StackExchange.Profiling.MiniProfiler.Stop();
-    }
-}
-```
-3- Add to _Layout.cshtml:
-```
-@using StackExchange.Profiling;
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        …
-    </head>
-    <body>
-             …
-        @MiniProfiler.RenderIncludes()
-    </body>
- 
-</html>
 ```
 
 
 # Nuget Package
-https://www.nuget.org/packages/MiniProfiler.CodeCop/
+https://www.nuget.org/packages/Serilog.Elastic.CodeCop/
 
 Make sure you read the CodeCop wiki page at https://bitbucket.org/codecop_team/codecop/wiki/Home to get started using this powerful method interception tool for .NET .
-
