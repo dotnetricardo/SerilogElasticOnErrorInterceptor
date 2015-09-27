@@ -1,0 +1,63 @@
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Serilog.Elastic.CodeCop.dll.config
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Serilog.Elastic.CodeCop.dll
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Serilog.Elastic.CodeCop.pdb
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\CodeCop.dll
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Elasticsearch.Net.dll
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Newtonsoft.Json.dll
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\CodeCop.xml
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Elasticsearch.Net.pdb
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Elasticsearch.Net.xml
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Newtonsoft.Json.xml
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\obj\Debug\Serilog.Elastic.CodeCop.dll
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\obj\Debug\Serilog.Elastic.CodeCop.pdb
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\obj\Debug\Serilog.Elastic.CodeCop.csprojResolveAssemblyReference.cache
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Serilog.dll
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Serilog.FullNetFx.dll
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Serilog.Sinks.Elasticsearch.dll
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Serilog.pdb
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Serilog.xml
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Serilog.FullNetFx.pdb
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Serilog.FullNetFx.xml
+c:\users\rbarbosa\documents\visual studio 2013\Projects\ElasticSearch.CodeCop\ElasticSearch.CodeCop\bin\Debug\Serilog.Sinks.Elasticsearch.xml
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.Elastic.CodeCop.dll.config
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.Elastic.CodeCop.dll
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.Elastic.CodeCop.pdb
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\CodeCop.dll
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Elasticsearch.Net.dll
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.dll
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.FullNetFx.dll
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.Sinks.Elasticsearch.dll
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\CodeCop.xml
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Elasticsearch.Net.xml
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.pdb
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.xml
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.FullNetFx.pdb
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.FullNetFx.xml
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.Sinks.Elasticsearch.xml
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\obj\Debug\Serilog.Elastic.CodeCop.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\obj\Debug\Serilog.Elastic.CodeCop.dll
+C:\Users\RBarbosa\Documents\visual studio 2013\Projects\ElasticSearch.CodeCop\Serilog.Elastic.CodeCop\obj\Debug\Serilog.Elastic.CodeCop.pdb
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.Elastic.CodeCop.dll.config
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.Elastic.CodeCop.dll
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.Elastic.CodeCop.pdb
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\CodeCop.dll
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Elasticsearch.Net.dll
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.dll
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.FullNetFx.dll
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.Sinks.ElasticSearch.dll
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\CodeCop.xml
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Elasticsearch.Net.pdb
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Elasticsearch.Net.xml
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.pdb
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.xml
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.FullNetFx.pdb
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.FullNetFx.xml
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\bin\Debug\Serilog.Sinks.ElasticSearch.xml
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\obj\Debug\Serilog.Elastic.CodeCop.csprojResolveAssemblyReference.cache
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\obj\Debug\Serilog.Elastic.CodeCop.dll
+C:\Projects\Serilog.Elastic.CodeCop\Serilog.Elastic.CodeCop\obj\Debug\Serilog.Elastic.CodeCop.pdb
